@@ -1,0 +1,9 @@
+ALGUNAS CONSIDERACIONES ACERCA DEL PROYECTO
+
+Decidí hacer el proyecto utilizando métodos y objetos, es por esto que se debe correr en la consola el archivo llamado "calculadora.java", dentro de éste se cargan todas las cosas que se utilizan. 
+Intenté implementar algunas cosas para que el programa fuése más realista, pero en unos casos no pude lograrlo, una disculpa por ello, de antemano comenté en su mayoría lo que los métodos hacen.
+Un error que no pude corregir es cuando, en el sistema binario, se escribe un número muy grande, se arroja un error y el programa se detiene.
+El siguiente error surge cuando quiero hacer una resta, en el sistema binario, y el primer valor insertado por el usuario es menor que el segundo, no pude arreglar esto. Si esto ocurre en el programa se manda un mensaje que pide iniciar lo operación de nuevo (de momento esta es la solución que di).
+
+De momento, y por lo que estuve probando, estos son todos los errores que pude encontrar :(
+
