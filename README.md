@@ -1,4 +1,4 @@
-# Estructuras de Datos (EDD) - Semestre 2024-1
+# Introducción a las Ciencias de la Computación - Semestre 2023-2
 
 Este repositorio contiene el material del curso Introducción a las Ciencias de la COmputación correspondiente al semestre 2023-2. 
 Dentro de éste hay diversas prácticas y ejercicios realizados con el lenguaje de programación java.
