@@ -1,0 +1,75 @@
+
+LEER CON QUE VOY A TRABAJAR
+
+1 - Binario
+2- Decimal
+
+
+if opcion == 1
+	
+	preguntar operaciones posible
+	1. Suma
+	2. Resta
+	......
+
+	if (operacion == suma)
+
+		preguntar si usamos el dato de memoria
+
+		preguntar operando1
+		preguntar operando2
+
+		Revisar que operando1 y operando2 realmente sean binarios
+
+		Son correctos
+		misma longitud no hay problema
+
+		diferente longitud
+		arreglan la longitud
+
+		COnvierten a entero cada digito (1 o 0)
+		Aplican reglas de suma binaria
+
+
+		preguntan si guardas el resultado
+		memoria
+
+
+
+		si memoria = suma
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

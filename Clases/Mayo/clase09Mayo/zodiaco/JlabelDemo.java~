@@ -1,0 +1,37 @@
+import javax.swing.JLabel;
+import javax.swing.JPanel;
+import javax.swing.JFrame;
+import javax.swing.Icon;
+import javax.swing.ImageIcon;
+
+public class JlabelDemo extends JFrame {
+
+	/*public JLabel etiqueta;
+
+	public JlabelDemo() {
+
+		ImageIcon icon = new ImageIcon("Aries.jpg");
+		etiqueta = new JLabel(icon,JLabel.CENTER);
+		etiqueta.setText("Simbolo");
+		etiqueta.setIcon(icon);
+		etiqueta.setHorizontalTextPosition(JLabel.CENTER);
+		etiqueta.setVerticalTextPosition(JLabel.BOTTOM);
+		add(etiqueta);
+	}*/
+
+	public static void main(String[] args) {
+
+		Zodiaco etiquetas = new Zodiaco();
+		etiquetas.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
+		etiquetas.setSize(500,500);
+		etiquetas.setVisible(true);
+
+
+
+
+	}
+
+
+
+
+}

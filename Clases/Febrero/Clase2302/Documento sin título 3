@@ -1,0 +1,15 @@
+
+Algoritmo - Zodiaco
+
+Programa que pregunta dia y mes de nacimiento
+Regresa el valor del signo zodiacal que le corresponde
+
+int dia = valor del teclado
+int mes = valor del teclado
+
+si ( (dia>=21 && mes==3 ) || (dia<=19 && mes==4 ))
+	imprime Aries
+else if ( (dia>=20 && mes==4 ) || (dia<=20 && mes==5 ))
+	imprime Tauro
+....
+

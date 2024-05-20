@@ -1,0 +1,17 @@
+Lanzar dos dados
+dado1 = valor aleatorio entre 1 y 6
+dado2 = valor aleatorio entre 1 y 6
+
+suma = dado1 + dado2
+
+Si suma es par
+
+	Volver a lanzar dados
+	
+	si suma es par:
+		ganamos
+	si no:
+		perdimos
+si no:
+	perdimos
+
